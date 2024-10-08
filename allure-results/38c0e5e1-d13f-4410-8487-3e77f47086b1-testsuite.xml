@@ -1,0 +1,151 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1728410020462' stop='1728410028224'>
+    <name>Traversal</name>
+    <title>Traversal</title>
+    <test-cases>
+        <test-case start='1728410020462' status='passed' stop='1728410023381'>
+            <name>.children() - get child DOM elements</name>
+            <title>.children() - get child DOM elements</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1728410023393' status='passed' stop='1728410023659'>
+            <name>.closest() - get closest ancestor DOM element</name>
+            <title>.closest() - get closest ancestor DOM element</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1728410023670' status='passed' stop='1728410023939'>
+            <name>.eq() - get a DOM element at a specific index</name>
+            <title>.eq() - get a DOM element at a specific index</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1728410023950' status='passed' stop='1728410024199'>
+            <name>.filter() - get DOM elements that match the selector</name>
+            <title>.filter() - get DOM elements that match the selector</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1728410024209' status='passed' stop='1728410024482'>
+            <name>.find() - get descendant DOM elements of the selector</name>
+            <title>.find() - get descendant DOM elements of the selector</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1728410024492' status='passed' stop='1728410024763'>
+            <name>.first() - get first DOM element</name>
+            <title>.first() - get first DOM element</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1728410024773' status='passed' stop='1728410025205'>
+            <name>.last() - get last DOM element</name>
+            <title>.last() - get last DOM element</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1728410025215' status='passed' stop='1728410025465'>
+            <name>.next() - get next sibling DOM element</name>
+            <title>.next() - get next sibling DOM element</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1728410025477' status='passed' stop='1728410025732'>
+            <name>.nextAll() - get all next sibling DOM elements</name>
+            <title>.nextAll() - get all next sibling DOM elements</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1728410025741' status='passed' stop='1728410025995'>
+            <name>.nextUntil() - get next sibling DOM elements until next el</name>
+            <title>.nextUntil() - get next sibling DOM elements until next el</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1728410026009' status='passed' stop='1728410026303'>
+            <name>.not() - remove DOM elements from set of DOM elements</name>
+            <title>.not() - remove DOM elements from set of DOM elements</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1728410026313' status='passed' stop='1728410026559'>
+            <name>.parent() - get parent DOM element from DOM elements</name>
+            <title>.parent() - get parent DOM element from DOM elements</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1728410026568' status='passed' stop='1728410026849'>
+            <name>.parents() - get parent DOM elements from DOM elements</name>
+            <title>.parents() - get parent DOM elements from DOM elements</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1728410026858' status='passed' stop='1728410027124'>
+            <name>.parentsUntil() - get parent DOM elements from DOM elements until el</name>
+            <title>.parentsUntil() - get parent DOM elements from DOM elements until el</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1728410027133' status='passed' stop='1728410027408'>
+            <name>.prev() - get previous sibling DOM element</name>
+            <title>.prev() - get previous sibling DOM element</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1728410027419' status='passed' stop='1728410027683'>
+            <name>.prevAll() - get all previous sibling DOM elements</name>
+            <title>.prevAll() - get all previous sibling DOM elements</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1728410027694' status='passed' stop='1728410027947'>
+            <name>.prevUntil() - get all previous sibling DOM elements until el</name>
+            <title>.prevUntil() - get all previous sibling DOM elements until el</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1728410027959' status='passed' stop='1728410028224'>
+            <name>.siblings() - get all sibling DOM elements</name>
+            <title>.siblings() - get all sibling DOM elements</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
